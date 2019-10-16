@@ -1,14 +1,10 @@
-import math
-import sys
 from os import rename
 
 import requests
 
-# print(sys.version)
-# print(sys.executable)
 
- 
-print("Hello, Michael")  
+print("Hello, Michael")
+
 
 def greet(who_to_greet):
     # test = 'foo'
