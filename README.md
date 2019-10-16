@@ -1,1 +1,1 @@
-This is pretty crappy!  Testing some stuff.
+This is pretty crappy for testing some stuff.
