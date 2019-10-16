@@ -3,7 +3,7 @@ from os import rename
 import requests
 
 
-print("Hello, Mikey Bee")
+print("Hey, Mikey Bee")
 
 
 def greet(who_to_greet):
